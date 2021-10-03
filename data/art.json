@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Visual Art",
+      "about": "An impressive creation for a cosmetics company.",
+      "img": "https://i.ibb.co/9t0X5Yq/work-4.jpg",
+      "display": true
+    },
+    {
+      "id": 2,
+      "name": "Abstract Design",
+      "about": "We seek to obtain something innovative from art.",
+      "img": "https://i.ibb.co/8DgD85M/work-5.jpg",
+      "display": true
+    },
+    {
+      "id": 3,
+      "name": "Creative Painting",
+      "about": "We combine the use of balanced colors with painting.",
+      "img": "https://i.ibb.co/CHB0bBc/work-6.jpg",
+      "display": true
+    },
+    {
+      "id": 4,
+      "name": "Graffiti Art",
+      "about": "artistic expression and can have positive outcomes for people",
+      "img": "https://i.ibb.co/wR6Jqcq/work-3.jpg",
+      "display": false
+    },
+    {
+      "id": 5,
+      "name": "Portrait Painting",
+      "about": "artistic representation of a person its expression is predominant.",
+      "img": "https://i.ibb.co/m5pPGVr/work-1.jpg",
+      "display": false
+    },
+    {
+      "id": 6,
+      "name": "Modern Art",
+      "about": "conservative values such as realistic depiction of subjects",
+      "img": "https://i.ibb.co/GT6Mhkc/work-2.jpg",
+      "display": false
+    }
+  ]
