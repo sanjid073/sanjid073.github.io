@@ -40,5 +40,26 @@
       "about": "conservative values such as realistic depiction of subjects",
       "img": "https://i.ibb.co/GT6Mhkc/work-2.jpg",
       "display": false
+    },
+    {
+      "id": 7,
+      "name": "Impasto Art",
+      "about": "paint is thickly laid on surface brushstrokes marks are visible.",
+      "img": "https://i.ibb.co/5BHJ3wh/work-9.png",
+      "display": false
+    },
+    {
+      "id": 8,
+      "name": "Charcoal Drawing",
+      "about": "smooth yet brittle material that has  to chalk pastel.",
+      "img": "https://i.ibb.co/TMCh43j/work-8.jpg",
+      "display": false
+    },
+    {
+      "id": 9,
+      "name": "Oil Painting",
+      "about": "painting with pigments with a medium of drying oil as the binder.",
+      "img": "https://i.ibb.co/9psWF3d/work-7.jpg",
+      "display": false
     }
   ]
