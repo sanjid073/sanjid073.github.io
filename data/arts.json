@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Visual Art",
+      "about": "An impressive creation for a cosmetics company.",
+      "img": "https://i.ibb.co/9t0X5Yq/work-4.jpg",
+      "price" : 20,
+      "display": true
+    },
+    {
+      "id": 2,
+      "name": "Abstract Design",
+      "about": "We seek to obtain something innovative from art.",
+      "img": "https://i.ibb.co/8DgD85M/work-5.jpg",
+      "price" : 35,
+      "display": true
+    },
+    {
+      "id": 3,
+      "name": "Creative Painting",
+      "about": "We combine the use of balanced colors with painting.",
+      "img": "https://i.ibb.co/CHB0bBc/work-6.jpg",
+      "price" : 50,
+      "display": true
+    },
+    {
+      "id": 4,
+      "name": "Graffiti Art",
+      "about": "artistic expression and can have positive outcomes for people",
+      "img": "https://i.ibb.co/wR6Jqcq/work-3.jpg",
+      "price" : 25,
+      "display": false
+    },
+    {
+      "id": 5,
+      "name": "Portrait Painting",
+      "about": "artistic representation of a person its expression is predominant.",
+      "img": "https://i.ibb.co/m5pPGVr/work-1.jpg",
+      "price" : 30,
+      "display": false
+    },
+    {
+      "id": 6,
+      "name": "Modern Art",
+      "about": "conservative values such as realistic depiction of subjects",
+      "img": "https://i.ibb.co/GT6Mhkc/work-2.jpg",
+      "price" : 22,
+      "display": false
+    },
+    {
+      "id": 7,
+      "name": "Impasto Art",
+      "about": "paint is thickly laid on surface brushstrokes marks are visible.",
+      "img": "https://i.ibb.co/5BHJ3wh/work-9.png",
+      "price" : 40,
+      "display": false
+    },
+    {
+      "id": 8,
+      "name": "Charcoal Drawing",
+      "about": "smooth yet brittle material that has  to chalk pastel.",
+      "img": "https://i.ibb.co/TMCh43j/work-8.jpg",
+      "price" : 66,
+      "display": false
+    },
+    {
+      "id": 9,
+      "name": "Oil Painting",
+      "about": "painting with pigments with a medium of drying oil as the binder.",
+      "img": "https://i.ibb.co/9psWF3d/work-7.jpg",
+      "price" : 28,
+      "display": false
+    }
+  ]
