@@ -5,7 +5,8 @@
       "about": "This water-soluble milk protein is popular among athletes. It is a complete protein, meaning that it contains all of the amino acids that the human body requires from food. The body absorbs whey protein quickly and easily.",
       "img": "https://i.ibb.co/CVqJ00c/h3-shop-img-1.webp",
       "price" : 120,
-      "display": true
+      "star": 4,
+      "reviews": 10
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "about": "This type of protein is rich in glutamine, an amino acid that may speed up muscle recovery after exercise. Casein comes from dairy, making it unsuitable for vegans and people with milk allergies. The body digests this protein more slowly, so it may be best to take it at night",
       "img": "https://i.ibb.co/yfnhVYy/h3-shop-img-4.png",
       "price" : 135,
-      "display": true
+      "star": 5,
+      "reviews": 10
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "about": "Soy protein is an excellent alternative to whey or casein for people who do not consume dairy. It also contains all the essential amino acids.",
       "img": "https://i.ibb.co/6ZyxSJx/h8-single-img-2.png",
       "price" : 250,
-      "display": true
+      "star": 5,
+      "reviews": 10
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "about": "Many plant-based protein powders contain pea protein, which is a high-quality alternative to soy- and dairy-based proteins. Pea protein is a good source of the amino acid arginine.",
       "img": "https://i.ibb.co/J5bQf6h/h3-shop-img-3.webp",
       "price" : 185,
-      "display": false
+      "star": 3,
+      "reviews": 10
     },
     {
       "id": 5,
@@ -37,7 +41,8 @@
       "about": "Hemp seeds are complete proteins that also contain essential fatty acids. This makes hemp an excellent choice for vegans or those with dairy or soy allergies.",
       "img": "https://i.ibb.co/cFHwWN1/h3-shop-img-2.png",
       "price" : 165,
-      "display": false
+      "star": 4,
+      "reviews": 10
     },
     {
       "id": 6,
@@ -45,7 +50,8 @@
       "about": "This type of protein is rich in glutamine, an amino acid that may speed up muscle recovery after exercise. Casein comes from dairy, making it unsuitable for vegans and people with milk allergies. The body digests this protein more slowly, so it may be best to take it at night.",
       "img": "https://i.ibb.co/cg1qfDn/h8-single-img-3.png",
       "price" : 222,
-      "display": false
+      "star": 4,
+      "reviews": 10
     }
    
   ]
