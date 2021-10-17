@@ -19,11 +19,11 @@
     },
     {
       "id": 3,
-      "name": "SOY PROTEIN",
-      "about": "Soy protein is an excellent alternative to whey or casein for people who do not consume dairy. It also contains all the essential amino acids.",
-      "img": "https://i.ibb.co/6ZyxSJx/h8-single-img-2.png",
-      "price" : 250,
-      "star": 5,
+      "name": "PROTEIN 100% PURPLE",
+      "about": "Hemp seeds are complete proteins that also contain essential fatty acids. This makes hemp an excellent choice for vegans or those with dairy or soy allergies.",
+      "img": "https://i.ibb.co/cFHwWN1/h3-shop-img-2.png",
+      "price" : 165,
+      "star": 4,
       "reviews": 10
     },
     {
@@ -35,13 +35,14 @@
       "star": 3,
       "reviews": 10
     },
+    
     {
       "id": 5,
-      "name": "PROTEIN 100% PURPLE",
-      "about": "Hemp seeds are complete proteins that also contain essential fatty acids. This makes hemp an excellent choice for vegans or those with dairy or soy allergies.",
-      "img": "https://i.ibb.co/cFHwWN1/h3-shop-img-2.png",
-      "price" : 165,
-      "star": 4,
+      "name": "SOY PROTEIN",
+      "about": "Soy protein is an excellent alternative to whey or casein for people who do not consume dairy. It also contains all the essential amino acids.",
+      "img": "https://i.ibb.co/6ZyxSJx/h8-single-img-2.png",
+      "price" : 250,
+      "star": 5,
       "reviews": 10
     },
     {
